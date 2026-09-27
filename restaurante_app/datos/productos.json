@@ -1,0 +1,17 @@
+[
+    {
+        "codigo": "P001",
+        "nombre": "Hamburguesa",
+        "precio": 3.50
+    },
+    {
+        "codigo": "P002",
+        "nombre": "Pincho de camarón",
+        "precio": 4.00
+    },
+    {
+        "codigo": "P003",
+        "nombre": "Chuleta asada",
+        "precio": 7.00
+    }
+]
